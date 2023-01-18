@@ -1,3 +1,5 @@
+_Note: Archiving because PR has been merged in._
+
 # semantic-versioning-maven
 A simple GitHub Action tool to increment the Maven version of a pom and all its children based on
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0).
